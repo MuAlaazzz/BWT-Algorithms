@@ -1,0 +1,34 @@
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\B_wheeler.Form1.resources
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.exe
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.deps.json
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\bin\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\B_wheeler.Form1.resources
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.dll
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\refint\WinFormsApp1.dll
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.pdb
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\w\Downloads\B_wheeler\B_wheeler\WinFormsApp1\obj\Debug\net7.0-windows\ref\WinFormsApp1.dll

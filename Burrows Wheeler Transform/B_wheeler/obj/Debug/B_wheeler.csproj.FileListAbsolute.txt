@@ -1,0 +1,11 @@
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\B_wheeler\bin\Debug\B_wheeler.exe.config
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\B_wheeler\bin\Debug\B_wheeler.exe
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\B_wheeler\bin\Debug\B_wheeler.pdb
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\B_wheeler\obj\Debug\B_wheeler.csproj.AssemblyReference.cache
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\B_wheeler\obj\Debug\B_wheeler.csproj.SuggestedBindingRedirects.cache
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\B_wheeler\obj\Debug\B_wheeler.Form1.resources
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\B_wheeler\obj\Debug\B_wheeler.Properties.Resources.resources
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\B_wheeler\obj\Debug\B_wheeler.csproj.GenerateResource.cache
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\B_wheeler\obj\Debug\B_wheeler.csproj.CoreCompileInputs.cache
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\B_wheeler\obj\Debug\B_wheeler.exe
+D:\3rd Year\3rd_year(2nd_term) new\algo\proj\B_wheeler\B_wheeler\obj\Debug\B_wheeler.pdb
